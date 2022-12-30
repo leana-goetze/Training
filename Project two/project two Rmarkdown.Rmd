@@ -1,0 +1,16 @@
+---
+title: "Project two Rmarkdown"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+## this is a test
+# testing
+```
+
